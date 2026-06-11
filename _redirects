@@ -1,0 +1,33 @@
+# Redirects preservados / SEO / URLs antigas
+/motoboys/ /entregadores/ 301!
+/trabalhe-conosco/ /entregadores/ 301!
+/parceiros/ /entregadores/ 301!
+/conteudos/como-calcular-motoboyes-por-pedidos/ /conteudos/como-calcular-entregadores-por-pedidos/ 301!
+/conteudos/como-reforcar-motoboyes-para-transportadora/ /conteudos/como-reforcar-entregadores-para-transportadora/ 301!
+/cliente/ /fale-conosco/ 301!
+/clientes/ /fale-conosco/#prova-social-contato 301!
+/comercial/ /fale-conosco/ 301!
+/contato/ /fale-conosco/ 301!
+/google-ads/transportadoras/ /lp/transportadoras-osasco/ 301
+/google-ads/motoboy-osasco/ /lp/motoboy-osasco/ 301
+/diagnostico/ /fale-conosco/ 301
+/diagnostico-operacional-delivery/ /servicos/delivery-para-restaurantes/ 301!
+/gestao-de-delivery-para-restaurantes/ /servicos/delivery-para-restaurantes/ 301!
+/operacao-de-delivery-para-restaurantes/ /servicos/delivery-para-restaurantes/ 301!
+/escala-de-entregadores-para-restaurantes/ /servicos/delivery-para-restaurantes/ 301!
+/entregadores-para-restaurantes-em-osasco/ /servicos/delivery-para-restaurantes/ 301!
+/delivery-para-pizzarias/ /servicos/motoboy-para-pizzaria-em-osasco/ 301!
+/delivery-para-hamburguerias/ /servicos/motoboy-para-hamburgueria-em-osasco/ 301!
+/delivery-para-pastelarias/ /servicos/motoboy-para-pastelaria-em-osasco/ 301!
+/motoboy-em-osasco/ /servicos/motoboy-para-empresas-em-osasco/ 301!
+/motoboy-para-empresa/ /servicos/motoboy-para-empresas-em-osasco/ 301!
+/empresa-de-motoboy/ /servicos/empresa-de-motoboy-em-osasco/ 301!
+/empresa-de-entregas/ /servicos/empresa-de-entregas-em-osasco/ 301!
+/coleta-e-entrega/ /servicos/coleta-e-entrega-em-osasco/ 301!
+/entrega-rapida/ /servicos/entrega-rapida-em-osasco/ 301!
+/entrega-expressa/ /servicos/entrega-expressa-em-osasco/ 301!
+/ecommerce/ /servicos/entrega-para-ecommerce-em-osasco/ 301!
+/rastreio/ /blog/ 301
+
+/termos /termos-de-uso/ 301
+/termos-de-uso /termos-de-uso/ 301
